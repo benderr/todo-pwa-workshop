@@ -1,0 +1,8 @@
+{
+  "short_name": "TODO_TEST_ILSHAT",
+  "name": "ToDO PWA ILSHAT",
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#6EB150",
+  "background_color": "#fff"
+}
