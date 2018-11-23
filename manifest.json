@@ -4,5 +4,12 @@
   "start_url": ".",
   "display": "fullscreen",
   "theme_color": "#6EB150",
-  "background_color": "#fff"
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
