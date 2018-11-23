@@ -34,7 +34,7 @@ class Login extends React.Component {
 	render() {
 		return (
 			<div className="loginScreen">
-				<h2 className="loginLabel">Введите имя</h2>
+				<h2 className="loginLabel">Введите имя test</h2>
 				<div className="loginControls">
 					<input type="text" id="username" placeholder="Avi" />
 					<svg className="feather right-arrow login-button" aria-label="Login" role="button"
